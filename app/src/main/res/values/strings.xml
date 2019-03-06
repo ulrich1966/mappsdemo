@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mappsdemo</string>
+    <string name="title_activity_mapsactivity">Map</string>
+    <string name="cmd_toMap">Zur Karte</string>
+</resources>
